@@ -6,7 +6,7 @@ You can download it from the Perseus [plugin store](http://www.coxdocs.org/doku.
 
 ## Plugin development guide
 
-You can find a plugin development guide on [github](https://github.com/jdrudolph/PluginTutorial).
+You can find a plugin development guide on [github](https://github.com/cox-labs/PluginTutorial).
 
 ## Licence
 
